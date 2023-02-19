@@ -1,0 +1,27 @@
+body {
+    width: 600px;
+    background-color: whitesmoke;
+}
+
+.addTask {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: rgb(234, 165, 205);
+    width: 180px;
+    height: 50px;
+}
+
+input {
+    width: 350px;
+}
+
+img {
+    width: 100px;
+}
+
+.none {
+    display: none;
+}
